@@ -8,6 +8,6 @@ void main(){
     }
     printf("Printing array element");
     for(j=0;j<4;j++){
-        printf("%d\n",arr[i]);
+        printf("%d\n",arr[j]);
     }
 }
